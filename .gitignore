@@ -1,0 +1,11 @@
+*.pyc
+*.log
+*.dll
+*.lib
+*.exe
+.idea
+Thumbs.db
+__pycache__
+/__pycache__
+__pycache__/
+desktop_app
